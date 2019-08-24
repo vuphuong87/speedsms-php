@@ -1,0 +1,21 @@
+{
+    "name": "vuphuong87/speedsms-php",
+    "description": "A PHP wrapper for SpeedSMS' API",
+    "keywords": [
+        "speedsms",
+        "sms",
+        "php"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vu Phuong",
+            "email": "vuphuong87@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": { "SpeedSMS\\" : "src/" }
+    }
+}
